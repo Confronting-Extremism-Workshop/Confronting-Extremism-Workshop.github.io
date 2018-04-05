@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/Confronting-Extremism-Workshop/Confronting-Extremism-Workshop.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Digital Extremism: Understanding and Confronting the Alt-right’s Digital Toolkit
+### with Joan Donovan and UC Irvine Technology, Law and Society Graduate Fellows
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Friday, April 6
+10:00 a.m. – 2:00 p.m.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Confronting-Extremism-Workshop/Confronting-Extremism-Workshop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This half-day graduate workshop facilitated by Joan Donovan, Digital Media Manipulation Lead at Data and Society, will focus on how to study the tools and techniques of digital extremism. The workshop will be coordinated with Dean Bill Maurer’s NSF-funded Technology, Law and Society interdisciplinary group of graduate students. Graduate students will also work with Dr. Donovan on drafting a curriculum and a set of practical, hands-on exercises for use in the classroom. Open to all interested graduate students. Space is limited to 30 students. Please contact gianna@uci.edu to RSVP.
